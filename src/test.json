@@ -1,0 +1,66 @@
+{
+    "frames": [{
+        "id": "0",
+        "name": "Tuira",
+        "rating": "A"
+    },{
+        "id": "20",
+        "name": "Viklar",
+        "rating": "D"
+    },{
+        "id": "10",
+        "name": "Bagarn",
+        "rating": "S"
+    },{
+        "id": "2",
+        "name": "Janus",
+        "rating": "B"
+    },{
+        "id": "4",
+        "name": "Hexor",
+        "rating": "B"
+    }],
+	"books": [{
+		"id": "0",
+		"name": "The High Castle",
+		"genre": "Fantasy",
+		"authorId": "0"
+	},{
+		"id": "1",
+		"name": "Valley of Dragons",
+		"genre": "Fantasy",
+		"authorId": "3"
+	},{
+		"id": "2",
+		"name": "The War Empire",
+		"genre": "History",
+		"authorId": "2"
+	},{
+		"id": "3",
+		"name": "Gone With Love",
+		"genre": "Romance",
+		"authorId": "3"
+	},{
+		"id": "4",
+		"name": "The Dark Tower",
+		"genre": "Fantasy",
+		"authorId": "1"
+	}],
+	"authors": [{
+		"id": "0",
+		"name": "Jimmy James",
+		"age": 45
+	},{
+		"id": "1",
+		"name": "Steve Richardson",
+		"age": 27
+	},{
+		"id": "2",
+		"name": "Bobby Flayers",
+		"age": 57
+	},{
+		"id": "3",
+		"name": "Billy Blankets",
+		"age": 69
+	}]
+}

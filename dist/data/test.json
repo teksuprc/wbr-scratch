@@ -1,0 +1,23 @@
+{
+    "frames": [{
+        "id": 0,
+        "name": "Tuira",
+        "rating": "A"
+    },{
+        "id": 20,
+        "name": "Viklar",
+        "rating": "D"
+    },{
+        "id": 10,
+        "name": "Batwing",
+        "rating": "S"
+    },{
+        "id": 2,
+        "name": "Janus",
+        "rating": "B"
+    },{
+        "id": 4,
+        "name": "Hexor",
+        "rating": "B"
+    }]
+}
